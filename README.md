@@ -1,5 +1,5 @@
-# fMRI_GNN
-Repository for Dissertation [Multi-Atlas Based Graph Neural Network for Alzheimer's Disease Prediction Using rs-fMRI Data]
+# Multi-Atlas Based Graph Neural Network for Alzheimer's Disease Prediction Using rs-fMRI Data
+This is a repository for Dissertation Project at KCL
 
 
 ## Dataset Availability
